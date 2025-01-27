@@ -9,7 +9,6 @@ body {
     background-color: #222;
     display: flex;
     justify-content: center;
-    max-height: 100vh;
 }
 
 .card {
